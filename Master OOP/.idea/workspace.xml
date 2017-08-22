@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe0cfe1-1488-4970-bd01-b1a5ca8d66eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -749,7 +745,7 @@
       <workItem from="1502665669490" duration="1162000" />
       <workItem from="1502671117983" duration="485000" />
       <workItem from="1502671616125" duration="2108000" />
-      <workItem from="1503370182508" duration="3157000" />
+      <workItem from="1503370182508" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="adding uiDesigner">
       <created>1503373301979</created>
@@ -758,11 +754,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503373301979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding uiDesigner">
+      <created>1503373716970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503373716970</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18720000" />
+    <option name="totallyTimeSpent" value="18759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="4112" height="2136" extended-state="6" />
