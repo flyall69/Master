@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dfe0cfe1-1488-4970-bd01-b1a5ca8d66eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Animal.java" afterPath="$PROJECT_DIR$/src/com/company/Animal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Bird.java" afterPath="$PROJECT_DIR$/src/com/company/Bird.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Chicken.java" afterPath="$PROJECT_DIR$/src/com/company/Chicken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Fish.java" afterPath="$PROJECT_DIR$/src/com/company/Fish.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Sparrow.java" afterPath="$PROJECT_DIR$/src/com/company/Sparrow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Zoo.java" afterPath="$PROJECT_DIR$/src/com/company/Zoo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -779,7 +773,7 @@
       <workItem from="1505605497157" duration="21000" />
       <workItem from="1505605528062" duration="22000" />
       <workItem from="1506198674909" duration="4113000" />
-      <workItem from="1506477189459" duration="1726000" />
+      <workItem from="1506477189459" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="adding uiDesigner">
       <created>1503373301979</created>
@@ -806,7 +800,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24881000" />
+    <option name="totallyTimeSpent" value="24994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="4112" height="2136" extended-state="6" />
