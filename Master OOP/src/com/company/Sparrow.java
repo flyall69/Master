@@ -9,4 +9,10 @@ public class Sparrow extends Bird implements Flyable {
     public void fly() {
         System.out.println("Sparrow flying high...");
     }
+
+
+    @Override
+    public void move() {
+        System.out.println("I'm flying...");
+    }
 }

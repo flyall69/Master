@@ -13,11 +13,12 @@ public class Zoo {
         Animal ape = new Animal("Ape", 12, "Male", 453);
         Animal zebra = new Animal("Zebra", 7, "Female", 389);
         Animal lizard = new Animal("Lizard", 2, "Male", 6);
-        Fish fish = new Fish("Fish", 1, "Female", 18);
+        Animal fish = new Fish("Fish", 1, "Female", 18);
         Bird bird = new Bird("Bird", 23, "Female", 13);
 
         Chicken chik1 = new Chicken("Hot Chick", 2, "M", 3);
-        Sparrow spar1 = new Sparrow("Spar", 3, "F", 1);
+        Animal spar1 = new Sparrow("Spar", 3, "F", 1);
+        Sparrow spar2 = new Sparrow("Spar", 3, "F", 1);
 
     ape.speak();
     ape.eat();
@@ -28,7 +29,8 @@ public class Zoo {
     fish.swim();
     bird.speak();
     chik1.fly();
-    spar1.fly();
-
+    spar1.move();
+    spar2.fly();
+    fish.move();
     }
 }

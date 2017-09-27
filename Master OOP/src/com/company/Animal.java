@@ -36,4 +36,7 @@ public class Animal {
     public void swim(){
         System.out.println("Bubble, bubble, swim...");
     }
+
+    public void move() {
+    }
 }
